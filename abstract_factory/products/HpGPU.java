@@ -1,4 +1,6 @@
-package abstract_factory;
+package abstract_factory.products;
+
+import abstract_factory.GPU;
 
 public class HpGPU implements GPU {
     

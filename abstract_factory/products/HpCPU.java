@@ -1,4 +1,6 @@
-package abstract_factory;
+package abstract_factory.products;
+
+import abstract_factory.CPU;
 
 public class HpCPU implements CPU {
      @Override
