@@ -1,6 +1,7 @@
+package Singleton;
 // vansh chopra - Design Patters - Singleton Pattern
 
-public final class Singleton {
+public class Singleton {
    private static volatile Singleton instance;
    private final String data;
 
