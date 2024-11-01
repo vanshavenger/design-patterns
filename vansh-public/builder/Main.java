@@ -29,8 +29,5 @@ public class Main {
         meal = mealDirector.construct();
 
         System.out.println(meal);
-
-
-
     }
 }
